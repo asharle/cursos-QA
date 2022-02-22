@@ -15,7 +15,7 @@ JSON
    note  ++
  14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON   touch skills.json ; vim..
  15. Отправить сразу 2 файла на внешний репозиторий. git add. (all untraking fails)
- 16. На веб интерфейсе создать файл bug_ report.json.  new fails, create
+ 16. На веб интерфейсе создать файл bug_ report.json.  add a README. name of the fail; commit new fail
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе. commit changes
  18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON. (to see on GitHub)
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе. commit changes
